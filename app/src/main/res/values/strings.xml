@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task1-5</string>
+    <string name="task123">TASK 1,2,3</string>
+    <string name="task45">TASK 4, 5</string>
+    <string-array name="places">
+        <item></item>
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
